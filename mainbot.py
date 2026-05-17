@@ -42,7 +42,7 @@ download_btn = tk.Button(root, text="Download", command=download_song)
 download_btn.pack(pady=10)
 
 
-progress.pack(pady=10)
+
 
 # ghatiya gando status 
 status_label = tk.Label(root, text="")
